@@ -1,4 +1,4 @@
-# eslint-config-scalefast
+# @scalefast/eslint-config
 
 [![npm version](https://badge.fury.io/js/eslint-config-scalefast.svg)](https://badge.fury.io/js/eslint-config-scalefast)
 
