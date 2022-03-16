@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-scalefast",
+  "name": "@scalefast/eslint-config",
   "version": "2.0.0",
   "description": "Eslint config we use and extend at Scalefast as a shareable configuration https://eslint.org/docs/developer-guide/shareable-configs",
   "main": "index.js",
